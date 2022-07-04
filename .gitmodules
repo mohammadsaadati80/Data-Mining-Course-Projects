@@ -1,3 +1,6 @@
 [submodule "CA1"]
 	path = CA1
 	url = https://github.com/mohammadsaadati80/Data-Mining-COVID-19-Analysis
+[submodule "CA2"]
+	path = CA2
+	url = https://github.com/mohammadsaadati80/Data-Mining-Market-Basket-Analysis
